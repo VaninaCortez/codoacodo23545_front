@@ -1,0 +1,17 @@
+
+.container-fluid {
+    display: flex;
+}
+
+.flex-container{
+    flex-direction: row;
+}
+
+.card{
+    display: flex;
+}
+
+
+.card-img-overlay{
+    align-items: last baseline;
+}
